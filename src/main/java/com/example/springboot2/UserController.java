@@ -18,6 +18,7 @@ public class UserController {
     {
         System.out.println("=====getAll======你妈啊");
         System.out.println("=====git======你妈啊");
+        System.out.println("=====git====fox==你妈啊");
         return  "4156a4sd6asd";
     }
     @GetMapping("/{id}")
