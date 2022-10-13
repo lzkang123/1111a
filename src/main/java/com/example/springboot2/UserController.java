@@ -17,6 +17,7 @@ public class UserController {
     public  String getAll()
     {
         System.out.println("=====getAll======你妈啊");
+        System.out.println("=====git======你妈啊");
         return  "4156a4sd6asd";
     }
     @GetMapping("/{id}")
